@@ -1,6 +1,6 @@
 
 //基于STM32F103 HAL库运行自行打包的用于驱动OLED的一些函数。
-#include "My_OLED.h"
+#include "MY_OLED.h"
 
 #define OLED_address 0x78
 #define OLED_i2c &hi2c1
